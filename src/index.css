@@ -133,7 +133,7 @@ p {
   font-size: 0.875rem;
   border: 2px solid transparent;
   cursor: pointer;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 3px rgba(207, 6, 6, 0.2);
 }
 .btn:hover {
   color: var(--clr-primary-1);
